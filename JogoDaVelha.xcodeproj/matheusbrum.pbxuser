@@ -1,0 +1,176 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* JogoDaVelha */ = {
+		activeExec = 0;
+		executables = (
+			84E5358510A4C80B00BEAEC6 /* JogoDaVelha */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* JogoDaVelhaViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {514, 754}}";
+			sepNavSelRange = "{1632, 20}";
+			sepNavVisRange = "{348, 1308}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* JogoDaVelhaViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1300, 3042}}";
+			sepNavSelRange = "{4446, 100}";
+			sepNavVisRange = "{3908, 841}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 84E5358510A4C80B00BEAEC6 /* JogoDaVelha */;
+		activeSDKPreference = iphoneos3.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* JogoDaVelha */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* JogoDaVelha */,
+		);
+		codeSenseManager = 84E5359B10A4C81C00BEAEC6 /* Code sense */;
+		executables = (
+			84E5358510A4C80B00BEAEC6 /* JogoDaVelha */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					336,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 284914106;
+			PBXWorkspaceStateSaveDate = 284914106;
+		};
+		perUserProjectItems = {
+			8403572A10FB71DD009BD67A /* PBXTextBookmark */ = 8403572A10FB71DD009BD67A /* PBXTextBookmark */;
+			8403572B10FB71DD009BD67A /* PBXTextBookmark */ = 8403572B10FB71DD009BD67A /* PBXTextBookmark */;
+			842A5E8F10AEFAAA00F9F2C1 /* PBXBookmark */ = 842A5E8F10AEFAAA00F9F2C1 /* PBXBookmark */;
+			842A5EC210AEFD0B00F9F2C1 /* PBXTextBookmark */ = 842A5EC210AEFD0B00F9F2C1 /* PBXTextBookmark */;
+			84E5363510A4D2D300BEAEC6 /* PBXBookmark */ = 84E5363510A4D2D300BEAEC6 /* PBXBookmark */;
+			84E5363610A4D2D300BEAEC6 /* PBXBookmark */ = 84E5363610A4D2D300BEAEC6 /* PBXBookmark */;
+			84E5366210A4D6A100BEAEC6 /* PBXBookmark */ = 84E5366210A4D6A100BEAEC6 /* PBXBookmark */;
+			84E5366310A4D6A100BEAEC6 /* PlistBookmark */ = 84E5366310A4D6A100BEAEC6 /* PlistBookmark */;
+		};
+		sourceControlManager = 84E5359A10A4C81C00BEAEC6 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8403572A10FB71DD009BD67A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* JogoDaVelhaViewController.m */;
+		name = "JogoDaVelhaViewController.m: 162";
+		rLen = 100;
+		rLoc = 4446;
+		rType = 0;
+		vrLen = 841;
+		vrLoc = 3908;
+	};
+	8403572B10FB71DD009BD67A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* JogoDaVelhaViewController.h */;
+		name = "JogoDaVelhaViewController.h: 57";
+		rLen = 20;
+		rLoc = 1632;
+		rType = 0;
+		vrLen = 1308;
+		vrLoc = 348;
+	};
+	842A5E8F10AEFAAA00F9F2C1 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 84E5365710A4D54A00BEAEC6 /* Default.png */;
+	};
+	842A5EC210AEFD0B00F9F2C1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* JogoDaVelhaViewController.h */;
+		name = "JogoDaVelhaViewController.h: 57";
+		rLen = 20;
+		rLoc = 1632;
+		rType = 0;
+		vrLen = 1653;
+		vrLoc = 3;
+	};
+	84E5358510A4C80B00BEAEC6 /* JogoDaVelha */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = JogoDaVelha;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	84E5359A10A4C81C00BEAEC6 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	84E5359B10A4C81C00BEAEC6 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	84E5363510A4D2D300BEAEC6 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 84E535FA10A4CD6C00BEAEC6 /* X.png */;
+	};
+	84E5363610A4D2D300BEAEC6 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 84E5361910A4D10500BEAEC6 /* back17.png */;
+	};
+	84E5366210A4D6A100BEAEC6 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 84E5364C10A4D45F00BEAEC6 /* icon.png */;
+	};
+	84E5366310A4D6A100BEAEC6 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* JogoDaVelha-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/MatheusBrum/Desktop/JogoDaVelha/JogoDaVelha-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+}

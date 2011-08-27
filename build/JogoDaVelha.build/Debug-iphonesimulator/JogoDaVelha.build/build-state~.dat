@@ -1,0 +1,284 @@
+TJogoDaVelha
+v7
+r0
+t279234728.065186
+cCheck dependencies
+cProcessInfoPlistFile /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphonesimulator/JogoDaVelha.app/Info.plist JogoDaVelha-Info.plist
+cCompileXIB /Users/MatheusBrum/Desktop/JogoDaVelha/MainWindow.xib
+cCompileXIB /Users/MatheusBrum/Desktop/JogoDaVelha/JogoDaVelhaViewController.xib
+cProcessPCH /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JogoDaVelha_Prefix-dplvsdkgjdcfcbbpkifjmfrgvvpp/JogoDaVelha_Prefix.pch.gch JogoDaVelha_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/Objects-normal/i386/main.o /Users/MatheusBrum/Desktop/JogoDaVelha/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/Objects-normal/i386/JogoDaVelhaAppDelegate.o /Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/Objects-normal/i386/JogoDaVelhaViewController.o /Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk
+c000000004AAC665500000000000000EE
+t1252812373
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A821911000000000026EE30
+t1250040081
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A765094000000000027E880
+t1249267860
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A7650820000000000001355
+t1249267842
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A7C6E970000000000000788
+t1249668759
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A7C6F5900000000016721E0
+t1249668953
+s23536096
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.h
+c000000004AF4908B00000000000001F8
+t1257541771
+s504
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m
+c000000004AF4908B000000000000027F
+t1257541771
+s639
+i"JogoDaVelhaAppDelegate.h"
+i"JogoDaVelhaViewController.h"
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.h
+c000000004AF491240000000000000652
+t1257541924
+s1618
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m
+c000000004AF4908B00000000000005C8
+t1257541771
+s1480
+i"JogoDaVelhaViewController.h"
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/JogoDaVelhaViewController.xib
+c000000004AF4908B00000000000018EB
+t1257541771
+s6379
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/JogoDaVelha_Prefix.pch
+c000000004AF4908B00000000000000BF
+t1257541771
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/MainWindow.xib
+c000000004AF4908B000000000000247A
+t1257541771
+s9338
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphonesimulator/JogoDaVelha.app
+t2
+s0
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphonesimulator/JogoDaVelha.app.dSYM
+t2
+s0
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphonesimulator/JogoDaVelha.app/Info.plist
+t1257541926
+s578
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphonesimulator/JogoDaVelha.app/JogoDaVelha
+t2
+s0
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphonesimulator/JogoDaVelha.app/JogoDaVelhaViewController.nib
+t1257541927
+s800
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphonesimulator/JogoDaVelha.app/MainWindow.nib
+t1257541927
+s1112
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphonesimulator/JogoDaVelha.app/PkgInfo
+t1257541926
+s8
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/Objects-normal/i386/JogoDaVelha.LinkFileList
+c000000004AF4912600000000000001AD
+t1257541926
+s429
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/Objects-normal/i386/JogoDaVelhaAppDelegate.o
+t2
+s0
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/Objects-normal/i386/JogoDaVelhaViewController.o
+t2
+s0
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/Objects-normal/i386/main.o
+t1257541928
+s5944
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/main.m
+c000000004AF4908B000000000000016E
+t1257541771
+s366
+i<UIKit/UIKit.h>
+
+N/var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JogoDaVelha_Prefix-dplvsdkgjdcfcbbpkifjmfrgvvpp/JogoDaVelha_Prefix.pch.gch
+t1257541927
+s13034960
+
+NJogoDaVelha-Info.plist
+c000000004AF4908B000000000000038D
+t1257541771
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies279234726#279234726#0(0"0(0#1#0"4371640#0"0#
+
+CCompileC build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/Objects-normal/i386/JogoDaVelhaAppDelegate.o /Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s279234727.831753
+e279234728.027059
+r0
+xCompileC
+xbuild/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/Objects-normal/i386/JogoDaVelhaAppDelegate.o
+x/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m:12: error: no type or storage class may be specified here before 'implementation'
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m:15: error: expected identifier or '(' before 'synthesize'
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m:18: error: expected ';' before '{' token
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m:33: warning: '@end' missing in implementation context
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m:33: warning: property 'window' requires method '-window' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m:33: warning: property 'window' requires the method 'setWindow:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m:33: warning: property 'viewController' requires method '-viewController' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m:33: warning: property 'viewController' requires the method 'setViewController:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@79"Compile /Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m279234727#279234728#0(1393"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m:12: error: no type or storage class may be specified here before 'implementation'/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m:15: error: expected identifier or '(' before 'synthesize'/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m:18: error: expected ';' before '{' token/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m:33: warning: '@end' missing in implementation context/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m:33: warning: property 'window' requires method '-window' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m:33: warning: property 'window' requires the method 'setWindow:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m:33: warning: property 'viewController' requires method '-viewController' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m:33: warning: property 'viewController' requires the method 'setViewController:' to be defined - use @synthesize, @dynamic or provide a method implementation8(4@70"No type or storage class may be specified here before 'implementation'279234727#0#154#0(6@71"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m279234571#12#0#12#0#0"0(4@46"Expected identifier or '(' before 'synthesize'279234727#154#130#0(6@71"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m279234571#15#0#15#0#19"expected * before *0(4@29"Expected ';' before '{' token279234727#284#113#0(6@71"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m279234571#18#0#18#0#19"expected * before *0(22@40"'@end' missing in implementation context279234727#397#126#0(6@71"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m279234571#33#0#33#0#40"'@end' missing in implementation context0(22@120"Property 'window' requires method '-window' to be defined - use @synthesize, @dynamic or provide a method implementation279234727#523#206#0(6@71"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m279234571#33#0#33#0#0"0(22@127"Property 'window' requires the method 'setWindow:' to be defined - use @synthesize, @dynamic or provide a method implementation279234727#729#213#0(6@71"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m279234571#33#0#33#0#0"0(22@136"Property 'viewController' requires method '-viewController' to be defined - use @synthesize, @dynamic or provide a method implementation279234727#942#222#0(6@71"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m279234571#33#0#33#0#0"0(22@143"Property 'viewController' requires the method 'setViewController:' to be defined - use @synthesize, @dynamic or provide a method implementation279234727#1164#229#0(6@71"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m279234571#33#0#33#0#0"0(0#0#71"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m2416090432#1981"    cd /Users/MatheusBrum/Desktop/JogoDaVelha    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/JogoDaVelha-generated-files.hmap -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/JogoDaVelha-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/JogoDaVelha-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/JogoDaVelha-project-headers.hmap -F/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphonesimulator -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphonesimulator/include -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/DerivedSources/i386 -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/DerivedSources -include /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JogoDaVelha_Prefix-dplvsdkgjdcfcbbpkifjmfrgvvpp/JogoDaVelha_Prefix.pch -c /Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m -o /Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/Objects-normal/i386/JogoDaVelhaAppDelegate.o1#
+
+CCompileC build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/Objects-normal/i386/JogoDaVelhaViewController.o /Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s279234728.027161
+e279234728.065093
+r0
+xCompileC
+xbuild/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/Objects-normal/i386/JogoDaVelhaViewController.o
+x/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:11: error: no type or storage class may be specified here before 'implementation'
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: '@end' missing in implementation context
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 'oImg' requires method '-oImg' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 'oImg' requires the method 'setOImg:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 'xImg' requires method '-xImg' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 'xImg' requires the method 'setXImg:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 'imagem' requires method '-imagem' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 'imagem' requires the method 'setImagem:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 'resetButton' requires method '-resetButton' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 'resetButton' requires the method 'setResetButton:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 'board' requires method '-board' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 'board' requires the method 'setBoard:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's1' requires method '-s1' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's1' requires the method 'setS1:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's2' requires method '-s2' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's2' requires the method 'setS2:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's3' requires method '-s3' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's3' requires the method 'setS3:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's4' requires method '-s4' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's4' requires the method 'setS4:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's5' requires method '-s5' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's5' requires the method 'setS5:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's6' requires method '-s6' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's6' requires the method 'setS6:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's7' requires method '-s7' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's7' requires the method 'setS7:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's8' requires method '-s8' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's8' requires the method 'setS8:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's9' requires method '-s9' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's9' requires the method 'setS9:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 'myAlertView' requires method '-myAlertView' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 'myAlertView' requires the method 'setMyAlertView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 'whoseTurn' requires method '-whoseTurn' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 'whoseTurn' requires the method 'setWhoseTurn:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: incomplete implementation of class 'JogoDaVelhaViewController'
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: method definition for '-didReceiveMemoryWarning' not found
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: method definition for '-resetBoard' not found
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: method definition for '-buttonReset' not found
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: method definition for '-checkForWin' not found
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: method definition for '-updatePlayerInfo' not found
+o/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: method definition for '-processLogic' not found
+lSLF07#2@82"Compile /Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234728#279234728#0(7952"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:11: error: no type or storage class may be specified here before 'implementation'/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: '@end' missing in implementation context/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 'oImg' requires method '-oImg' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 'oImg' requires the method 'setOImg:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 'xImg' requires method '-xImg' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 'xImg' requires the method 'setXImg:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 'imagem' requires method '-imagem' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 'imagem' requires the method 'setImagem:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 'resetButton' requires method '-resetButton' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 'resetButton' requires the method 'setResetButton:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 'board' requires method '-board' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 'board' requires the method 'setBoard:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's1' requires method '-s1' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's1' requires the method 'setS1:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's2' requires method '-s2' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's2' requires the method 'setS2:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's3' requires method '-s3' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's3' requires the method 'setS3:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's4' requires method '-s4' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's4' requires the method 'setS4:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's5' requires method '-s5' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's5' requires the method 'setS5:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's6' requires method '-s6' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's6' requires the method 'setS6:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's7' requires method '-s7' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's7' requires the method 'setS7:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's8' requires method '-s8' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's8' requires the method 'setS8:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's9' requires method '-s9' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 's9' requires the method 'setS9:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 'myAlertView' requires method '-myAlertView' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 'myAlertView' requires the method 'setMyAlertView:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 'whoseTurn' requires method '-whoseTurn' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: property 'whoseTurn' requires the method 'setWhoseTurn:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: incomplete implementation of class 'JogoDaVelhaViewController'/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: method definition for '-didReceiveMemoryWarning' not found/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: method definition for '-resetBoard' not found/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: method definition for '-buttonReset' not found/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: method definition for '-checkForWin' not found/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: method definition for '-updatePlayerInfo' not found/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m:65: warning: method definition for '-processLogic' not found41(4@70"No type or storage class may be specified here before 'implementation'279234728#0#157#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#11#0#11#0#0"0(22@40"'@end' missing in implementation context279234728#157#129#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#40"'@end' missing in implementation context0(22@116"Property 'oImg' requires method '-oImg' to be defined - use @synthesize, @dynamic or provide a method implementation279234728#286#205#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#0"0(22@123"Property 'oImg' requires the method 'setOImg:' to be defined - use @synthesize, @dynamic or provide a method implementation279234728#491#212#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#0"0(22@116"Property 'xImg' requires method '-xImg' to be defined - use @synthesize, @dynamic or provide a method implementation279234728#703#205#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#0"0(22@123"Property 'xImg' requires the method 'setXImg:' to be defined - use @synthesize, @dynamic or provide a method implementation279234728#908#212#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#0"0(22@120"Property 'imagem' requires method '-imagem' to be defined - use @synthesize, @dynamic or provide a method implementation279234728#1120#209#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#0"0(22@127"Property 'imagem' requires the method 'setImagem:' to be defined - use @synthesize, @dynamic or provide a method implementation279234728#1329#216#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#0"0(22@130"Property 'resetButton' requires method '-resetButton' to be defined - use @synthesize, @dynamic or provide a method implementation279234728#1545#219#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#0"0(22@137"Property 'resetButton' requires the method 'setResetButton:' to be defined - use @synthesize, @dynamic or provide a method implementation279234728#1764#226#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#0"0(22@118"Property 'board' requires method '-board' to be defined - use @synthesize, @dynamic or provide a method implementation279234728#1990#207#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#0"0(22@125"Property 'board' requires the method 'setBoard:' to be defined - use @synthesize, @dynamic or provide a method implementation279234728#2197#214#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#0"0(22@112"Property 's1' requires method '-s1' to be defined - use @synthesize, @dynamic or provide a method implementation279234728#2411#201#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#0"0(22@119"Property 's1' requires the method 'setS1:' to be defined - use @synthesize, @dynamic or provide a method implementation279234728#2612#208#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#0"0(22@112"Property 's2' requires method '-s2' to be defined - use @synthesize, @dynamic or provide a method implementation279234728#2820#201#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#0"0(22@119"Property 's2' requires the method 'setS2:' to be defined - use @synthesize, @dynamic or provide a method implementation279234728#3021#208#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#0"0(22@112"Property 's3' requires method '-s3' to be defined - use @synthesize, @dynamic or provide a method implementation279234728#3229#201#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#0"0(22@119"Property 's3' requires the method 'setS3:' to be defined - use @synthesize, @dynamic or provide a method implementation279234728#3430#208#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#0"0(22@112"Property 's4' requires method '-s4' to be defined - use @synthesize, @dynamic or provide a method implementation279234728#3638#201#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#0"0(22@119"Property 's4' requires the method 'setS4:' to be defined - use @synthesize, @dynamic or provide a method implementation279234728#3839#208#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#0"0(22@112"Property 's5' requires method '-s5' to be defined - use @synthesize, @dynamic or provide a method implementation279234728#4047#201#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#0"0(22@119"Property 's5' requires the method 'setS5:' to be defined - use @synthesize, @dynamic or provide a method implementation279234728#4248#208#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#0"0(22@112"Property 's6' requires method '-s6' to be defined - use @synthesize, @dynamic or provide a method implementation279234728#4456#201#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#0"0(22@119"Property 's6' requires the method 'setS6:' to be defined - use @synthesize, @dynamic or provide a method implementation279234728#4657#208#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#0"0(22@112"Property 's7' requires method '-s7' to be defined - use @synthesize, @dynamic or provide a method implementation279234728#4865#201#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#0"0(22@119"Property 's7' requires the method 'setS7:' to be defined - use @synthesize, @dynamic or provide a method implementation279234728#5066#208#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#0"0(22@112"Property 's8' requires method '-s8' to be defined - use @synthesize, @dynamic or provide a method implementation279234728#5274#201#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#0"0(22@119"Property 's8' requires the method 'setS8:' to be defined - use @synthesize, @dynamic or provide a method implementation279234728#5475#208#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#0"0(22@112"Property 's9' requires method '-s9' to be defined - use @synthesize, @dynamic or provide a method implementation279234728#5683#201#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#0"0(22@119"Property 's9' requires the method 'setS9:' to be defined - use @synthesize, @dynamic or provide a method implementation279234728#5884#208#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#0"0(22@130"Property 'myAlertView' requires method '-myAlertView' to be defined - use @synthesize, @dynamic or provide a method implementation279234728#6092#219#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#0"0(22@137"Property 'myAlertView' requires the method 'setMyAlertView:' to be defined - use @synthesize, @dynamic or provide a method implementation279234728#6311#226#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#0"0(22@126"Property 'whoseTurn' requires method '-whoseTurn' to be defined - use @synthesize, @dynamic or provide a method implementation279234728#6537#215#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#0"0(22@133"Property 'whoseTurn' requires the method 'setWhoseTurn:' to be defined - use @synthesize, @dynamic or provide a method implementation279234728#6752#222#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#0"0(22@62"Incomplete implementation of class 'JogoDaVelhaViewController'279234728#6974#151#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#38"incomplete implementation of class '*'0(22@58"Method definition for '-didReceiveMemoryWarning' not found279234728#7125#147#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#35"method definition for '*' not found0(22@45"Method definition for '-resetBoard' not found279234728#7272#134#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#35"method definition for '*' not found0(22@46"Method definition for '-buttonReset' not found279234728#7406#135#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#35"method definition for '*' not found0(22@46"Method definition for '-checkForWin' not found279234728#7541#135#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#35"method definition for '*' not found0(22@51"Method definition for '-updatePlayerInfo' not found279234728#7676#140#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#35"method definition for '*' not found0(22@47"Method definition for '-processLogic' not found279234728#7816#136#0(6@74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279234571#65#0#65#0#35"method definition for '*' not found0(0#0#74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m4371640#1987"    cd /Users/MatheusBrum/Desktop/JogoDaVelha    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/JogoDaVelha-generated-files.hmap -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/JogoDaVelha-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/JogoDaVelha-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/JogoDaVelha-project-headers.hmap -F/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphonesimulator -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphonesimulator/include -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/DerivedSources/i386 -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/DerivedSources -include /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JogoDaVelha_Prefix-dplvsdkgjdcfcbbpkifjmfrgvvpp/JogoDaVelha_Prefix.pch -c /Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m -o /Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/Objects-normal/i386/JogoDaVelhaViewController.o1#
+
+CCompileC build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/Objects-normal/i386/main.o /Users/MatheusBrum/Desktop/JogoDaVelha/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s279234727.830511
+e279234728.030234
+r1
+xCompileC
+xbuild/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/Objects-normal/i386/main.o
+x/Users/MatheusBrum/Desktop/JogoDaVelha/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/MatheusBrum/Desktop/JogoDaVelha/main.m279234727#279234728#0(0"0(0#0#45"/Users/MatheusBrum/Desktop/JogoDaVelha/main.m2416090432#1937"    cd /Users/MatheusBrum/Desktop/JogoDaVelha    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/JogoDaVelha-generated-files.hmap -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/JogoDaVelha-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/JogoDaVelha-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/JogoDaVelha-project-headers.hmap -F/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphonesimulator -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphonesimulator/include -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/DerivedSources/i386 -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/DerivedSources -include /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JogoDaVelha_Prefix-dplvsdkgjdcfcbbpkifjmfrgvvpp/JogoDaVelha_Prefix.pch -c /Users/MatheusBrum/Desktop/JogoDaVelha/main.m -o /Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/MatheusBrum/Desktop/JogoDaVelha/JogoDaVelhaViewController.xib
+s279234726.696100
+e279234727.016425
+r1
+xCompileXIB
+x/Users/MatheusBrum/Desktop/JogoDaVelha/JogoDaVelhaViewController.xib
+lSLF07#2@40"CompileXIB JogoDaVelhaViewController.xib279234726#279234727#0(0"0(0#0#68"/Users/MatheusBrum/Desktop/JogoDaVelha/JogoDaVelhaViewController.xib2416090432#514"    cd /Users/MatheusBrum/Desktop/JogoDaVelha    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphonesimulator/JogoDaVelha.app/JogoDaVelhaViewController.nib /Users/MatheusBrum/Desktop/JogoDaVelha/JogoDaVelhaViewController.xib0#
+
+CCompileXIB /Users/MatheusBrum/Desktop/JogoDaVelha/MainWindow.xib
+s279234726.672559
+e279234727.020796
+r1
+xCompileXIB
+x/Users/MatheusBrum/Desktop/JogoDaVelha/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib279234726#279234727#0(0"0(0#0#53"/Users/MatheusBrum/Desktop/JogoDaVelha/MainWindow.xib2416090432#484"    cd /Users/MatheusBrum/Desktop/JogoDaVelha    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphonesimulator/JogoDaVelha.app/MainWindow.nib /Users/MatheusBrum/Desktop/JogoDaVelha/MainWindow.xib0#
+
+CGenerateDSYMFile /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphonesimulator/JogoDaVelha.app.dSYM /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphonesimulator/JogoDaVelha.app/JogoDaVelha
+r0
+
+CLd /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphonesimulator/JogoDaVelha.app/JogoDaVelha normal i386
+r0
+
+CProcessInfoPlistFile /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphonesimulator/JogoDaVelha.app/Info.plist JogoDaVelha-Info.plist
+s279234726.639539
+e279234726.672452
+r1
+xProcessInfoPlistFile
+x/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphonesimulator/JogoDaVelha.app/Info.plist
+xJogoDaVelha-Info.plist
+lSLF07#2@30"Process JogoDaVelha-Info.plist279234726#279234726#0(0"0(0#0#61"/Users/MatheusBrum/Desktop/JogoDaVelha/JogoDaVelha-Info.plist4854736#491"    cd /Users/MatheusBrum/Desktop/JogoDaVelha    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility JogoDaVelha-Info.plist -genpkginfo /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphonesimulator/JogoDaVelha.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphonesimulator/JogoDaVelha.app/Info.plist0#
+
+CProcessPCH /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JogoDaVelha_Prefix-dplvsdkgjdcfcbbpkifjmfrgvvpp/JogoDaVelha_Prefix.pch.gch JogoDaVelha_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s279234727.020893
+e279234727.830379
+r1
+xProcessPCH
+x/var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JogoDaVelha_Prefix-dplvsdkgjdcfcbbpkifjmfrgvvpp/JogoDaVelha_Prefix.pch.gch
+xJogoDaVelha_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile JogoDaVelha_Prefix.pch279234727#279234727#0(0"0(0#0#61"/Users/MatheusBrum/Desktop/JogoDaVelha/JogoDaVelha_Prefix.pch4371640#1825"    cd /Users/MatheusBrum/Desktop/JogoDaVelha    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/JogoDaVelha-generated-files.hmap -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/JogoDaVelha-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/JogoDaVelha-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/JogoDaVelha-project-headers.hmap -F/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphonesimulator -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphonesimulator/include -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/DerivedSources/i386 -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphonesimulator/JogoDaVelha.build/DerivedSources -c /Users/MatheusBrum/Desktop/JogoDaVelha/JogoDaVelha_Prefix.pch -o /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JogoDaVelha_Prefix-dplvsdkgjdcfcbbpkifjmfrgvvpp/JogoDaVelha_Prefix.pch.gch0#
+
+CTouch /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphonesimulator/JogoDaVelha.app
+r0
+

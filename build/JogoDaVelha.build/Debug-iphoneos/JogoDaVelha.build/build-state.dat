@@ -1,0 +1,873 @@
+TJogoDaVelha
+v7
+r0
+t279238325.162251
+cCheck dependencies
+cCpResource build/Debug-iphoneos/JogoDaVelha.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/Info.plist JogoDaVelha-Info.plist
+cCompileXIB /Users/MatheusBrum/Desktop/JogoDaVelha/MainWindow.xib
+cCompileXIB /Users/MatheusBrum/Desktop/JogoDaVelha/JogoDaVelhaViewController.xib
+cCopyPNGFile /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/tabela.png tabela.png
+cCopyPNGFile /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/O.png O.png
+cCopyPNGFile /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/X.png X.png
+cCopyPNGFile /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/back17.png back17.png
+cCopyPNGFile /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/icon.png icon.png
+cCopyPNGFile /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/Default.png Default.png
+cProcessPCH /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JogoDaVelha_Prefix-cfnxezbixyslylctaudojjerpncn/JogoDaVelha_Prefix.pch.gch JogoDaVelha_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/Objects-normal/armv6/main.o /Users/MatheusBrum/Desktop/JogoDaVelha/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/Objects-normal/armv6/JogoDaVelhaAppDelegate.o /Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/Objects-normal/armv6/JogoDaVelhaViewController.o /Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/JogoDaVelha normal armv6
+cGenerateDSYMFile /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app.dSYM /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/JogoDaVelha
+cProcessProductPackaging "/Users/MatheusBrum/Library/MobileDevice/Provisioning Profiles/9E0B7780-55C7-43B0-94B2-2793752E0848.mobileprovision" /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/embedded.mobileprovision
+cTouch /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist /Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/JogoDaVelha.xcent
+cCodeSign /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk
+c000000004ABDAC680000000000000110
+t1253944424
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist
+c000000004A767D3000000000000000DD
+t1249279280
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
+c000000004A767D3000000000000001E5
+t1249279280
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A82198D00000000005F4900
+t1250040205
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A76566F0000000000501370
+t1249269359
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A7656460000000000001355
+t1249269318
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A7C6E9C0000000000000788
+t1249668764
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A7C6FEF0000000001B3F450
+t1249669103
+s28570704
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.h
+c000000004AF4908B00000000000001F8
+t1257541771
+s504
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m
+c000000004AF4908B000000000000027F
+t1257541771
+s639
+i"JogoDaVelhaAppDelegate.h"
+i"JogoDaVelhaViewController.h"
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/Classes/JogoDaVelhaViewController.h
+c000000004AF49A6E0000000000000678
+t1257544302
+s1656
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/Classes/JogoDaVelhaViewController.m
+c000000004AF49BB40000000000001548
+t1257544628
+s5448
+i"JogoDaVelhaViewController.h"
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/Default.png
+c000000004AF49F1600000000000193B2
+t1257545494
+s103346
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/JogoDaVelhaViewController.xib
+c000000004AF49B4A000000000000A5F7
+t1257544522
+s42487
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/JogoDaVelha_Prefix.pch
+c000000004AF4908B00000000000000BF
+t1257541771
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/MainWindow.xib
+c000000004AF4908B000000000000247A
+t1257541771
+s9338
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/O.png
+c000000004AF495830000000000000C70
+t1257543043
+s3184
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/X.png
+c000000004AF495C60000000000000BBC
+t1257543110
+s3004
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/back17.png
+c000000004A77DC7F00000000000278CA
+t1249369215
+s161994
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app
+t1257545525
+s578
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app.dSYM
+t1257545524
+s102
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/Default.png
+t1257545523
+s100907
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/Info.plist
+t1257545521
+s644
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/JogoDaVelha
+t1257545524
+s42688
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/JogoDaVelhaViewController.nib
+t1257545522
+s3613
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/MainWindow.nib
+t1257545522
+s1112
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/O.png
+t1257545522
+s3645
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/PkgInfo
+t1257545521
+s8
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/ResourceRules.plist
+t1257545521
+s485
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/X.png
+t1257545522
+s3144
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/back17.png
+t1257545524
+s103339
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/embedded.mobileprovision
+t1257545524
+s7182
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/icon.png
+t1257545522
+s7471
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/tabela.png
+t1257545522
+s3867
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/Objects-normal/armv6/JogoDaVelha.LinkFileList
+c000000004AF49F31000000000000019B
+t1257545521
+s411
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/Objects-normal/armv6/JogoDaVelhaAppDelegate.o
+t1257545524
+s43376
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/Objects-normal/armv6/JogoDaVelhaViewController.o
+t1257545524
+s79332
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/Objects-normal/armv6/main.o
+t1257545524
+s6540
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/icon.png
+c000000004AF49CCE0000000000001CD6
+t1257544910
+s7382
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/main.m
+c000000004AF4908B000000000000016E
+t1257541771
+s366
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/tabela.png
+c000000004AF494AA0000000000001504
+t1257542826
+s5380
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.h
+c000000004AF4908B00000000000001F8
+t1257541771
+s504
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m
+c000000004AF4908B000000000000027F
+t1257541771
+s639
+i"JogoDaVelhaAppDelegate.h"
+i"JogoDaVelhaViewController.h"
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.h
+c000000004AF49A6E0000000000000678
+t1257544302
+s1656
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m
+c000000004AF49BB40000000000001548
+t1257544628
+s5448
+i"JogoDaVelhaViewController.h"
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/Default.png
+c000000004AF49F1600000000000193B2
+t1257545494
+s103346
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/JogoDaVelhaViewController.xib
+c000000004AF49B4A000000000000A5F7
+t1257544522
+s42487
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/JogoDaVelha_Prefix.pch
+c000000004AF4908B00000000000000BF
+t1257541771
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/MainWindow.xib
+c000000004AF4908B000000000000247A
+t1257541771
+s9338
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/O.png
+c000000004AF495830000000000000C70
+t1257543043
+s3184
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/X.png
+c000000004AF495C60000000000000BBC
+t1257543110
+s3004
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/back17.png
+c000000004A77DC7F00000000000278CA
+t1249369215
+s161994
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app
+t1257545525
+s578
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app.dSYM
+t1257545524
+s102
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/Default.png
+t1257545523
+s100907
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/Info.plist
+t1257545521
+s644
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/JogoDaVelha
+t1257545524
+s42688
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/JogoDaVelhaViewController.nib
+t1257545522
+s3613
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/MainWindow.nib
+t1257545522
+s1112
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/O.png
+t1257545522
+s3645
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/PkgInfo
+t1257545521
+s8
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/ResourceRules.plist
+t1257545521
+s485
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/X.png
+t1257545522
+s3144
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/back17.png
+t1257545524
+s103339
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/embedded.mobileprovision
+t1257545524
+s7182
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/icon.png
+t1257545522
+s7471
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/tabela.png
+t1257545522
+s3867
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/JogoDaVelha.xcent
+t1257545524
+s324
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/Objects-normal/armv6/JogoDaVelha.LinkFileList
+c000000004AF49F31000000000000019B
+t1257545521
+s411
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/Objects-normal/armv6/JogoDaVelhaAppDelegate.o
+t1257545524
+s43376
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/Objects-normal/armv6/JogoDaVelhaViewController.o
+t1257545524
+s79332
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/Objects-normal/armv6/main.o
+t1257545524
+s6540
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/icon.png
+c000000004AF49CCE0000000000001CD6
+t1257544910
+s7382
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/main.m
+c000000004AF4908B000000000000016E
+t1257541771
+s366
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/JogoDaVelha/tabela.png
+c000000004AF494AA0000000000001504
+t1257542826
+s5380
+
+N/Users/MatheusBrum/Library/MobileDevice/Provisioning Profiles/9E0B7780-55C7-43B0-94B2-2793752E0848.mobileprovision
+c000000004AB80B3A0000000000001C0E
+t1253575482
+s7182
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.h
+c000000004AF4908B00000000000001F8
+t1257541771
+s504
+i<UIKit/UIKit.h>
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m
+c000000004AF4908B000000000000027F
+t1257541771
+s639
+i"JogoDaVelhaAppDelegate.h"
+i"JogoDaVelhaViewController.h"
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/Classes/JogoDaVelhaViewController.h
+c000000004AF49A6E0000000000000678
+t1257544302
+s1656
+i<UIKit/UIKit.h>
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/Classes/JogoDaVelhaViewController.m
+c000000004AF49BB40000000000001548
+t1257544628
+s5448
+i"JogoDaVelhaViewController.h"
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/Default.png
+c000000004AF49F1600000000000193B2
+t1257545494
+s103346
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/JogoDaVelhaViewController.xib
+c000000004AF49B4A000000000000A5F7
+t1257544522
+s42487
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/JogoDaVelha_Prefix.pch
+c000000004AF4908B00000000000000BF
+t1257541771
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/MainWindow.xib
+c000000004AF4908B000000000000247A
+t1257541771
+s9338
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/O.png
+c000000004AF495830000000000000C70
+t1257543043
+s3184
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/X.png
+c000000004AF495C60000000000000BBC
+t1257543110
+s3004
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/back17.png
+c000000004A77DC7F00000000000278CA
+t1249369215
+s161994
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app
+t1257545525
+s578
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app.dSYM
+t1257545524
+s102
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/Default.png
+t1257545523
+s100907
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/Info.plist
+t1257545521
+s644
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/JogoDaVelha
+t1257545524
+s42688
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/JogoDaVelhaViewController.nib
+t1257545522
+s3613
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/MainWindow.nib
+t1257545522
+s1112
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/O.png
+t1257545522
+s3645
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/PkgInfo
+t1257545521
+s8
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/ResourceRules.plist
+t1257545521
+s485
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/X.png
+t1257545522
+s3144
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/back17.png
+t1257545524
+s103339
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/embedded.mobileprovision
+t1257545524
+s7182
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/icon.png
+t1257545522
+s7471
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/tabela.png
+t1257545522
+s3867
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/Objects-normal/armv6/JogoDaVelha.LinkFileList
+c000000004AF49F31000000000000019B
+t1257545521
+s411
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/Objects-normal/armv6/JogoDaVelhaAppDelegate.o
+t1257545524
+s43376
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/Objects-normal/armv6/JogoDaVelhaViewController.o
+t1257545524
+s79332
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/Objects-normal/armv6/main.o
+t1257545524
+s6540
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/icon.png
+c000000004AF49CCE0000000000001CD6
+t1257544910
+s7382
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/main.m
+c000000004AF4908B000000000000016E
+t1257541771
+s366
+i<UIKit/UIKit.h>
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/tabela.png
+c000000004AF494AA0000000000001504
+t1257542826
+s5380
+
+N/Users/matheusbrum/Library/MobileDevice/Provisioning Profiles/D8A66DE0-DC52-4C01-9463-5B58E57AED29.mobileprovision
+c000000004B4800FA0000000000001C02
+t1263010042
+s7170
+
+N/var/folders/Oh/Oh68XJYRE6KDcMG+rhTFlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JogoDaVelha_Prefix-aasjlwcrumxpsncfpoazkmbsxfgn/JogoDaVelha_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JogoDaVelha_Prefix-bnarrkyukanhdzacukkyxdeexkqu/JogoDaVelha_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JogoDaVelha_Prefix-cfnxezbixyslylctaudojjerpncn/JogoDaVelha_Prefix.pch.gch
+t1257545524
+s7876792
+
+NJogoDaVelha-Info.plist
+c000000004AF49C0E000000000000038B
+t1257544718
+s907
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies279238321#279238321#0(0"0(0#1#0"2416090432#0"0#
+
+CCodeSign "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app"
+r0
+
+CCodeSign "/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app"
+r0
+
+CCodeSign /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app
+s279238324.927142
+e279238325.162219
+r1
+xCodeSign
+x/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app
+lSLF07#2@45"CodeSign build/Debug-iphoneos/JogoDaVelha.app279238324#279238325#0(0"0(0#0#75"/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app2416090432#672"    cd /Users/MatheusBrum/Desktop/JogoDaVelha    setenv CODESIGN_ALLOCATE /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Matheus Faber Brum (UGYC6P4A9V)" --resource-rules=/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/ResourceRules.plist --entitlements /Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/JogoDaVelha.xcent /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app0#
+
+CCompileC build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/Objects-normal/armv6/JogoDaVelhaAppDelegate.o "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/Objects-normal/armv6/JogoDaVelhaAppDelegate.o "/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/Objects-normal/armv6/JogoDaVelhaAppDelegate.o /Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s279238324.564374
+e279238324.675959
+r1
+xCompileC
+xbuild/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/Objects-normal/armv6/JogoDaVelhaAppDelegate.o
+x/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m279238324#279238324#0(0"0(0#0#71"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m2416090432#1848"    cd /Users/MatheusBrum/Desktop/JogoDaVelha    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote /Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/JogoDaVelha-generated-files.hmap -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/JogoDaVelha-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/JogoDaVelha-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/JogoDaVelha-project-headers.hmap -F/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/include -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/DerivedSources/armv6 -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/DerivedSources -include /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JogoDaVelha_Prefix-cfnxezbixyslylctaudojjerpncn/JogoDaVelha_Prefix.pch -c /Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaAppDelegate.m -o /Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/Objects-normal/armv6/JogoDaVelhaAppDelegate.o0#
+
+CCompileC build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/Objects-normal/armv6/JogoDaVelhaViewController.o "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/Classes/JogoDaVelhaViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/Objects-normal/armv6/JogoDaVelhaViewController.o "/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/Classes/JogoDaVelhaViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/Objects-normal/armv6/JogoDaVelhaViewController.o /Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s279238324.652930
+e279238324.779813
+r1
+xCompileC
+xbuild/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/Objects-normal/armv6/JogoDaVelhaViewController.o
+x/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m279238324#279238324#0(0"0(0#0#74"/Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m2416090432#1854"    cd /Users/MatheusBrum/Desktop/JogoDaVelha    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote /Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/JogoDaVelha-generated-files.hmap -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/JogoDaVelha-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/JogoDaVelha-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/JogoDaVelha-project-headers.hmap -F/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/include -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/DerivedSources/armv6 -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/DerivedSources -include /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JogoDaVelha_Prefix-cfnxezbixyslylctaudojjerpncn/JogoDaVelha_Prefix.pch -c /Users/MatheusBrum/Desktop/JogoDaVelha/Classes/JogoDaVelhaViewController.m -o /Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/Objects-normal/armv6/JogoDaVelhaViewController.o0#
+
+CCompileC build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/Objects-normal/armv6/main.o "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/Objects-normal/armv6/main.o "/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/Objects-normal/armv6/main.o /Users/MatheusBrum/Desktop/JogoDaVelha/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s279238324.563247
+e279238324.652830
+r1
+xCompileC
+xbuild/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/Objects-normal/armv6/main.o
+x/Users/MatheusBrum/Desktop/JogoDaVelha/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/MatheusBrum/Desktop/JogoDaVelha/main.m279238324#279238324#0(0"0(0#0#45"/Users/MatheusBrum/Desktop/JogoDaVelha/main.m2416090432#1804"    cd /Users/MatheusBrum/Desktop/JogoDaVelha    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote /Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/JogoDaVelha-generated-files.hmap -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/JogoDaVelha-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/JogoDaVelha-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/JogoDaVelha-project-headers.hmap -F/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/include -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/DerivedSources/armv6 -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/DerivedSources -include /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JogoDaVelha_Prefix-cfnxezbixyslylctaudojjerpncn/JogoDaVelha_Prefix.pch -c /Users/MatheusBrum/Desktop/JogoDaVelha/main.m -o /Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/Objects-normal/armv6/main.o0#
+
+CCompileXIB "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/JogoDaVelhaViewController.xib"
+r0
+
+CCompileXIB "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/JogoDaVelhaViewController.xib"
+r0
+
+CCompileXIB "/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/MainWindow.xib"
+r0
+
+CCompileXIB /Users/MatheusBrum/Desktop/JogoDaVelha/JogoDaVelhaViewController.xib
+s279238321.908991
+e279238322.558143
+r1
+xCompileXIB
+x/Users/MatheusBrum/Desktop/JogoDaVelha/JogoDaVelhaViewController.xib
+lSLF07#2@40"CompileXIB JogoDaVelhaViewController.xib279238321#279238322#0(0"0(0#0#68"/Users/MatheusBrum/Desktop/JogoDaVelha/JogoDaVelhaViewController.xib2416090432#500"    cd /Users/MatheusBrum/Desktop/JogoDaVelha    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/JogoDaVelhaViewController.nib /Users/MatheusBrum/Desktop/JogoDaVelha/JogoDaVelhaViewController.xib0#
+
+CCompileXIB /Users/MatheusBrum/Desktop/JogoDaVelha/MainWindow.xib
+s279238321.908466
+e279238322.396569
+r1
+xCompileXIB
+x/Users/MatheusBrum/Desktop/JogoDaVelha/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib279238321#279238322#0(0"0(0#0#53"/Users/MatheusBrum/Desktop/JogoDaVelha/MainWindow.xib2416090432#470"    cd /Users/MatheusBrum/Desktop/JogoDaVelha    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/MainWindow.nib /Users/MatheusBrum/Desktop/JogoDaVelha/MainWindow.xib0#
+
+CCopyPNGFile "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/Default.png" Default.png
+r0
+
+CCopyPNGFile "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/O.png" O.png
+r0
+
+CCopyPNGFile "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/X.png" X.png
+r0
+
+CCopyPNGFile "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/back17.png" back17.png
+r0
+
+CCopyPNGFile "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/icon.png" icon.png
+r0
+
+CCopyPNGFile "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/tabela.png" tabela.png
+r0
+
+CCopyPNGFile "/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/Default.png" Default.png
+r0
+
+CCopyPNGFile "/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/O.png" O.png
+r0
+
+CCopyPNGFile "/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/X.png" X.png
+r0
+
+CCopyPNGFile "/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/back17.png" back17.png
+r0
+
+CCopyPNGFile "/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/icon.png" icon.png
+r0
+
+CCopyPNGFile "/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/tabela.png" tabela.png
+r0
+
+CCopyPNGFile /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/Default.png Default.png
+s279238322.605598
+e279238323.336509
+r1
+xCopyPNGFile
+x/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/Default.png
+xDefault.png
+lSLF07#2@72"CopyPNGFile build/Debug-iphoneos/JogoDaVelha.app/Default.png Default.png279238322#279238323#0(0"0(0#0#50"/Users/MatheusBrum/Desktop/JogoDaVelha/Default.png2416090432#566"    cd /Users/MatheusBrum/Desktop/JogoDaVelha    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/MatheusBrum/Desktop/JogoDaVelha/Default.png /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/Default.png0#
+
+CCopyPNGFile /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/O.png O.png
+s279238322.516907
+e279238322.549251
+r1
+xCopyPNGFile
+x/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/O.png
+xO.png
+lSLF07#2@60"CopyPNGFile build/Debug-iphoneos/JogoDaVelha.app/O.png O.png279238322#279238322#0(0"0(0#0#44"/Users/MatheusBrum/Desktop/JogoDaVelha/O.png2416090432#554"    cd /Users/MatheusBrum/Desktop/JogoDaVelha    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/MatheusBrum/Desktop/JogoDaVelha/O.png /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/O.png0#
+
+CCopyPNGFile /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/X.png X.png
+s279238322.549328
+e279238322.583708
+r1
+xCopyPNGFile
+x/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/X.png
+xX.png
+lSLF07#2@60"CopyPNGFile build/Debug-iphoneos/JogoDaVelha.app/X.png X.png279238322#279238322#0(0"0(0#0#44"/Users/MatheusBrum/Desktop/JogoDaVelha/X.png2416090432#554"    cd /Users/MatheusBrum/Desktop/JogoDaVelha    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/MatheusBrum/Desktop/JogoDaVelha/X.png /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/X.png0#
+
+CCopyPNGFile /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/back17.png back17.png
+s279238322.558230
+e279238324.068842
+r1
+xCopyPNGFile
+x/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/back17.png
+xback17.png
+lSLF07#2@70"CopyPNGFile build/Debug-iphoneos/JogoDaVelha.app/back17.png back17.png279238322#279238324#0(0"0(0#0#49"/Users/MatheusBrum/Desktop/JogoDaVelha/back17.png2416090432#564"    cd /Users/MatheusBrum/Desktop/JogoDaVelha    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/MatheusBrum/Desktop/JogoDaVelha/back17.png /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/back17.png0#
+
+CCopyPNGFile /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/icon.png icon.png
+s279238322.583791
+e279238322.605522
+r1
+xCopyPNGFile
+x/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/icon.png
+xicon.png
+lSLF07#2@66"CopyPNGFile build/Debug-iphoneos/JogoDaVelha.app/icon.png icon.png279238322#279238322#0(0"0(0#0#47"/Users/MatheusBrum/Desktop/JogoDaVelha/icon.png2416090432#560"    cd /Users/MatheusBrum/Desktop/JogoDaVelha    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/MatheusBrum/Desktop/JogoDaVelha/icon.png /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/icon.png0#
+
+CCopyPNGFile /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/tabela.png tabela.png
+s279238322.396657
+e279238322.516805
+r1
+xCopyPNGFile
+x/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/tabela.png
+xtabela.png
+lSLF07#2@70"CopyPNGFile build/Debug-iphoneos/JogoDaVelha.app/tabela.png tabela.png279238322#279238322#0(0"0(0#0#49"/Users/MatheusBrum/Desktop/JogoDaVelha/tabela.png2416090432#564"    cd /Users/MatheusBrum/Desktop/JogoDaVelha    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/MatheusBrum/Desktop/JogoDaVelha/tabela.png /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/tabela.png0#
+
+CCpResource build/Debug-iphoneos/JogoDaVelha.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
+s279238321.900947
+e279238321.907267
+r1
+xCpResource
+xbuild/Debug-iphoneos/JogoDaVelha.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist279238321#279238321#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist2416090432#484"    cd /Users/MatheusBrum/Desktop/JogoDaVelha    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app0#
+
+CGenerateDSYMFile "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app.dSYM" "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/JogoDaVelha"
+r0
+
+CGenerateDSYMFile "/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app.dSYM" "/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/JogoDaVelha"
+r0
+
+CGenerateDSYMFile /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app.dSYM /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/JogoDaVelha
+s279238324.880249
+e279238324.895947
+r1
+xGenerateDSYMFile
+x/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app.dSYM
+x/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/JogoDaVelha
+lSLF07#2@107"GenerateDSYMFile build/Debug-iphoneos/JogoDaVelha.app.dSYM build/Debug-iphoneos/JogoDaVelha.app/JogoDaVelha279238324#279238324#0(0"0(0#0#87"/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/JogoDaVelha2416090432#374"    cd /Users/MatheusBrum/Desktop/JogoDaVelha    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/JogoDaVelha -o /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app.dSYM0#
+
+CLd "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/JogoDaVelha" normal armv6
+r0
+
+CLd "/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/JogoDaVelha" normal armv6
+r0
+
+CLd /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/JogoDaVelha normal armv6
+s279238324.779900
+e279238324.880133
+r1
+xLd
+x/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/JogoDaVelha
+xnormal
+xarmv6
+lSLF07#2@92"Link /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/JogoDaVelha279238324#279238324#0(0"0(0#0#0"2416090432#909"    cd /Users/MatheusBrum/Desktop/JogoDaVelha    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -L/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos -F/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos -filelist /Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/Objects-normal/armv6/JogoDaVelha.LinkFileList -mmacosx-version-min=10.5 -dead_strip -miphoneos-version-min=3.1 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/JogoDaVelha0#
+
+CProcessInfoPlistFile "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/Info.plist" JogoDaVelha-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/Info.plist" JogoDaVelha-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/Info.plist JogoDaVelha-Info.plist
+s279238321.901956
+e279238321.908400
+r1
+xProcessInfoPlistFile
+x/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/Info.plist
+xJogoDaVelha-Info.plist
+lSLF07#2@30"Process JogoDaVelha-Info.plist279238321#279238321#0(0"0(0#0#61"/Users/MatheusBrum/Desktop/JogoDaVelha/JogoDaVelha-Info.plist2416090432#578"    cd /Users/MatheusBrum/Desktop/JogoDaVelha    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility JogoDaVelha-Info.plist -genpkginfo /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/ResourceRules.plist -o /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/Info.plist0#
+
+CProcessPCH /var/folders/Oh/Oh68XJYRE6KDcMG+rhTFlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JogoDaVelha_Prefix-aasjlwcrumxpsncfpoazkmbsxfgn/JogoDaVelha_Prefix.pch.gch JogoDaVelha_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JogoDaVelha_Prefix-bnarrkyukanhdzacukkyxdeexkqu/JogoDaVelha_Prefix.pch.gch JogoDaVelha_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JogoDaVelha_Prefix-cfnxezbixyslylctaudojjerpncn/JogoDaVelha_Prefix.pch.gch JogoDaVelha_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s279238324.069007
+e279238324.563130
+r1
+xProcessPCH
+x/var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JogoDaVelha_Prefix-cfnxezbixyslylctaudojjerpncn/JogoDaVelha_Prefix.pch.gch
+xJogoDaVelha_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile JogoDaVelha_Prefix.pch279238324#279238324#0(0"0(0#0#61"/Users/MatheusBrum/Desktop/JogoDaVelha/JogoDaVelha_Prefix.pch2416090432#1698"    cd /Users/MatheusBrum/Desktop/JogoDaVelha    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote /Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/JogoDaVelha-generated-files.hmap -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/JogoDaVelha-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/JogoDaVelha-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/JogoDaVelha-project-headers.hmap -F/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/include -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/DerivedSources/armv6 -I/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/DerivedSources -c /Users/MatheusBrum/Desktop/JogoDaVelha/JogoDaVelha_Prefix.pch -o /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JogoDaVelha_Prefix-cfnxezbixyslylctaudojjerpncn/JogoDaVelha_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/MatheusBrum/Library/MobileDevice/Provisioning Profiles/9E0B7780-55C7-43B0-94B2-2793752E0848.mobileprovision" "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/embedded.mobileprovision"
+r0
+
+CProcessProductPackaging "/Users/MatheusBrum/Library/MobileDevice/Provisioning Profiles/9E0B7780-55C7-43B0-94B2-2793752E0848.mobileprovision" /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/embedded.mobileprovision
+s279238324.896657
+e279238324.912917
+r1
+xProcessProductPackaging
+x/Users/MatheusBrum/Library/MobileDevice/Provisioning Profiles/9E0B7780-55C7-43B0-94B2-2793752E0848.mobileprovision
+x/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/embedded.mobileprovision
+lSLF07#2@202"ProcessProductPackaging "/Users/MatheusBrum/Library/MobileDevice/Provisioning Profiles/9E0B7780-55C7-43B0-94B2-2793752E0848.mobileprovision" build/Debug-iphoneos/JogoDaVelha.app/embedded.mobileprovision279238324#279238324#0(0"0(0#0#100"/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/embedded.mobileprovision2416090432#433"    cd /Users/MatheusBrum/Desktop/JogoDaVelha    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/MatheusBrum/Library/MobileDevice/Provisioning Profiles/9E0B7780-55C7-43B0-94B2-2793752E0848.mobileprovision" -o /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/embedded.mobileprovision0#
+
+CProcessProductPackaging "/Users/matheusbrum/Library/MobileDevice/Provisioning Profiles/D8A66DE0-DC52-4C01-9463-5B58E57AED29.mobileprovision" "/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app/embedded.mobileprovision"
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/JogoDaVelha.xcent"
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist "/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/JogoDaVelha.xcent"
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist /Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/JogoDaVelha.xcent
+s279238324.917116
+e279238324.927082
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist
+x/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/JogoDaVelha.xcent
+lSLF07#2@187"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/JogoDaVelha.xcent279238324#279238324#0(0"0(0#0#113"/Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/JogoDaVelha.xcent2416090432#444"    cd /Users/MatheusBrum/Desktop/JogoDaVelha    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/MatheusBrum/Desktop/JogoDaVelha/build/JogoDaVelha.build/Debug-iphoneos/JogoDaVelha.build/JogoDaVelha.xcent0#
+
+CTouch "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app"
+r0
+
+CTouch "/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app"
+r0
+
+CTouch /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app
+s279238324.912985
+e279238324.916583
+r1
+xTouch
+x/Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app
+lSLF07#2@81"Touch /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app279238324#279238324#0(0"0(0#0#0"2416090432#268"    cd /Users/MatheusBrum/Desktop/JogoDaVelha    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/MatheusBrum/Desktop/JogoDaVelha/build/Debug-iphoneos/JogoDaVelha.app0#
+
